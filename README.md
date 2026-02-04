@@ -246,8 +246,6 @@ https://github.com/user-attachments/assets/081d325b-e6f8-4e60-9070-2ac36ccfbc08
 
 https://github.com/user-attachments/assets/28df3aad-795a-4f4a-99fd-ba2ee8ca4a0c
 
-![词汇详解](screenshots/vocabulary.png)
-
 完整的词汇学习界面，整合所有学习内容：
 
 | 内容 | 说明 |
